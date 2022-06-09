@@ -11,7 +11,7 @@
 
 namespace Nexusvc\OAuth2\Server;
 
-use Nexusvc\Event\Emitter;
+use League\Event\Emitter;
 use Nexusvc\OAuth2\Server\Storage\AccessTokenInterface;
 use Nexusvc\OAuth2\Server\Storage\AuthCodeInterface;
 use Nexusvc\OAuth2\Server\Storage\ClientInterface;
