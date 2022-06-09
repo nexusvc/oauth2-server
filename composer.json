@@ -42,10 +42,6 @@
 			"role": "Developer"
 		}
 	],
-	"replace": {
-		"lncd/oauth2": "*",
-		"nexusvc/oauth2server": "*"
-	},
 	"autoload": {
 		"psr-4": {
 			"Nexusvc\\OAuth2\\Server\\": "src/"
