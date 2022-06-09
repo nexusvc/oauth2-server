@@ -11,7 +11,7 @@
 
 namespace Nexusvc\OAuth2\Server\Event;
 
-use Nexusvc\Event\AbstractEvent;
+use League\Event\AbstractEvent;
 use Nexusvc\OAuth2\Server\Entity\SessionEntity;
 
 class SessionOwnerEvent extends AbstractEvent
